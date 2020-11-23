@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env bash
 
 # --- Stops the script if errors are encountered. ---
 set -e
